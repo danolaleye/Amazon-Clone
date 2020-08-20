@@ -16,50 +16,50 @@ function Home() {
         <Product
           id="12341341"
           title="The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses Hardcover – Illustrated, Sept. 13 2011"
-          price={11.96}
+          price={42.96}
           rating={4}
           image="https://images-na.ssl-images-amazon.com/images/I/51T-sMqSMiL._SX329_BO1,204,203,200_.jpg"
         />
         <Product
           id="12341341"
-          title="The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses Hardcover – Illustrated, Sept. 13 2011"
-          price={11.96}
+          title="Ninja BL780C Supra Kitchen System - Black Silver"
+          price={39.96}
           rating={4}
-          image="https://images-na.ssl-images-amazon.com/images/I/51T-sMqSMiL._SX329_BO1,204,203,200_.jpg"
-        />
-      </div>
-
-      <div className="home__row">
-        <Product
-          id="12341341"
-          title="The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses Hardcover – Illustrated, Sept. 13 2011"
-          price={11.96}
-          rating={4}
-          image="https://images-na.ssl-images-amazon.com/images/I/51T-sMqSMiL._SX329_BO1,204,203,200_.jpg"
-        />
-        <Product
-          id="12341341"
-          title="The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses Hardcover – Illustrated, Sept. 13 2011"
-          price={11.96}
-          rating={4}
-          image="https://images-na.ssl-images-amazon.com/images/I/51T-sMqSMiL._SX329_BO1,204,203,200_.jpg"
-        />
-        <Product
-          id="12341341"
-          title="The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses Hardcover – Illustrated, Sept. 13 2011"
-          price={11.96}
-          rating={4}
-          image="https://images-na.ssl-images-amazon.com/images/I/51T-sMqSMiL._SX329_BO1,204,203,200_.jpg"
+          image="https://images-na.ssl-images-amazon.com/images/I/912UEX%2BNnyL._AC_SL1500_.jpg"
         />
       </div>
 
       <div className="home__row">
         <Product
           id="12341341"
-          title="The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses Hardcover – Illustrated, Sept. 13 2011"
-          price={11.96}
+          title="EKeurig K-Duo Essentials Single Serve and Carafe Coffee Maker, Black"
+          price={128.99}
           rating={4}
-          image="https://images-na.ssl-images-amazon.com/images/I/51T-sMqSMiL._SX329_BO1,204,203,200_.jpg"
+          image="https://images-na.ssl-images-amazon.com/images/I/61-KUPluVYL._AC_SL1500_.jpg"
+        />
+        <Product
+          id="12341341"
+          title="Amazon Smart Plug, works with Alexa"
+          price={34.99}
+          rating={4}
+          image="https://images-na.ssl-images-amazon.com/images/I/51yy4dHf5VL._AC_SL1000_.jpg"
+        />
+        <Product
+          id="12341344"
+          title="Samsung Galaxy A51 (SM-A515F/DS) Dual SIM 128GB,4GB RAM (Black)"
+          price={399.99}
+          rating={4}
+          image="https://images-na.ssl-images-amazon.com/images/I/61sAKMokIUL._AC_SL1000_.jpg"
+        />
+      </div>
+
+      <div className="home__row">
+        <Product
+          id="12341341"
+          title="Bubba Trailblazer Vacuum-Insulated Stainless Steel Water Bottle, 40 oz, Stainless Steel"
+          price={21.97}
+          rating={4}
+          image="https://images-na.ssl-images-amazon.com/images/I/61NrmDcNTtL._AC_SL1500_.jpg"
         />
       </div>
 

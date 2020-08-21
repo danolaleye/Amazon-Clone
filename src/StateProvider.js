@@ -13,5 +13,5 @@ export const StateProvider = ({ reducer, initialState, children }) => (
   </StateContext.Provider>
 );
 
-//This is how we use it inside of a component
+//This is how we use it inside of a component. A hook which allows you to pull information from the data layer
 export const useStateValue = () => useContext(StateContext);
